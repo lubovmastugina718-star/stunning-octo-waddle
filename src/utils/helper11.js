@@ -1,4 +1,4 @@
-// Utility functions for repos_stunning-octo-waddle
+// Utility functions for repos_hist_stunning-octo-waddle_20250717
 export function formatDate(date) {
     return new Date(date).toLocaleDateString();
 }
