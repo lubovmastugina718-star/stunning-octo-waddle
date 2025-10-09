@@ -5,3 +5,5 @@ Initial commit.
 ## Update
 
 Fix formatting
+
+# Improve code readability
