@@ -7,3 +7,7 @@ Initial commit.
 Fix formatting
 
 # Improve code readability
+
+## Update
+
+Improve error messages
