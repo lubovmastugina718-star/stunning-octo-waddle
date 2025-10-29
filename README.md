@@ -15,3 +15,7 @@ Improve error messages
 ## Update
 
 Add logging
+
+## Update
+
+Update dependencies
