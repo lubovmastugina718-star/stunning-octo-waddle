@@ -19,3 +19,7 @@ Add logging
 ## Update
 
 Update dependencies
+
+## Update
+
+Fix linting errors
