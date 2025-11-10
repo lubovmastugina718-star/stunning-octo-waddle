@@ -75,3 +75,5 @@ Update dependencies
 Update tests
 
 <!-- Update .gitignore -->
+
+<!-- Update config files -->
