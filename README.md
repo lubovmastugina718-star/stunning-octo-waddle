@@ -23,3 +23,7 @@ Update dependencies
 ## Update
 
 Fix linting errors
+
+## Update
+
+Update error codes
