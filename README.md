@@ -27,3 +27,7 @@ Fix linting errors
 ## Update
 
 Update error codes
+
+## Update
+
+Add new feature
