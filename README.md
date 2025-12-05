@@ -39,3 +39,7 @@ Improve performance
 ## Update
 
 Add new test case
+
+## Update
+
+Add new utility function
