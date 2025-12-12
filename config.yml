@@ -1,3 +1,5 @@
 name: config
 version: 1.0.0
 description: Fix async/await issue
+
+# Update API documentation
