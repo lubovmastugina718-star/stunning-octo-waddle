@@ -77,3 +77,5 @@ Update tests
 <!-- Update .gitignore -->
 
 <!-- Update config files -->
+
+<!-- Fix bug in validation -->
