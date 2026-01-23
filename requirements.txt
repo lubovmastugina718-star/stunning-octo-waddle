@@ -3,3 +3,5 @@
 # Update error codes
 
 # Update package.json
+
+# Update config files
